@@ -1,6 +1,6 @@
 # Python Practice Code Repository With Two Projects 
 
-Welcome to the Python Practice Code Repository! This repository is a collection of Python practice exercises and solutions aimed at helping you improve your Python programming skills.
+Welcome to the Python Practice Code Repository! This repository is a collection of Python practice exercises and solutions aimed at helping my improvement and Python programming skills.
 
 ## Introduction
 
